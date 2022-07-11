@@ -1,5 +1,8 @@
-Reproduce a deep learning framework just using numpy and some basic Python framework.
-Implementation of the forward pass, gradient and backward pass for classical layers as Dense, CNN or Recurrent.
+Educational project to have a better understanding of how the deep learning layers work and are implemented. 
+Nowadays, it is very easy to build a neural network, we just have to use keras or pytorch libraries and stack layers; run the training processus and wait; if the results are not "satisfaying" we redo the experiments until we have "satisfying" results.
+Have a better understanding of how the layers and algorithms works might be useful to avoid unnecessary steps in the iterative process of finding "satisfying" results.
+That's why I have decided to re-implement all these algorithms and beautiful objects. 
+
 
 In construction...
 
